@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Shifuu 🙋‍♂️</h1>
-<h3 align="center">Still Learning!</h3>
 
-<h4 align="center">🔭 I’m currently working not working on any major projects.</h4> 
+<h4 align="center">🔭 I’m currently learning.</h4> 
 
-<h4 align="center"> 👻 I’m Interested in Malware Development.</h4>
+<h4 align="center"> ☕ I’m Interested in Java Development.</h4>
 
 <h4 align="center">📫 Email -  oshifuu@outlook.com </h4>
 
